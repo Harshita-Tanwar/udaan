@@ -36,7 +36,7 @@ udaan/
 └── vite.config.js
 ```
 ## Live Demo
-🌐 udaan-beige.vercel.app
+[UDAAN Deployed Link](https://udaan-beige.vercel.app/)
 
 ## Future Enhancements
 - Admin dashboard for posting/updating opportunities
